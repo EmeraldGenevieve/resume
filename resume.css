@@ -1,0 +1,12 @@
+.head, .header { display: inline-block; }
+.head {width: 65%;
+padding: 10px;
+text-align: left;
+}
+.header {width: 25%;
+text-align: right;
+}
+.text {text-align: left; color:blue;}
+.text1 {text-align: center;}
+.style {background-color: pink;}
+
